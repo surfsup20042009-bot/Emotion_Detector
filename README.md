@@ -3,7 +3,7 @@
 Emotion detection goes beyond sentiment analysis by extracting more nuanced emotions like joy, sadness, anger, and more from text statements. This capability is essential for AI-based recommendation systems, chatbots, and various other applications. In this project, we will harness the power of Watson AI to create an emotion detection application.
 
 ## Project Tasks
-To successfully complete this project, you will need to perform the following tasks:
+To successfully complete this Final Project, you will need to perform the following tasks:
 
 ### Task 1: Clone the Project Repository
 Start by cloning the project repository to your local environment. This will provide you with the necessary code and resources to begin your work.
